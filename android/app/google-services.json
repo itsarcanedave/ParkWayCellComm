@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "969949418855",
+    "project_id": "project-parkway",
+    "storage_bucket": "project-parkway.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969949418855:android:23f71160dbca12a35c4bc2",
+        "android_client_info": {
+          "package_name": "com.example.parkway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969949418855-jmjp4isbqst67hup3efs1tn7gpr5ki0d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.parkway",
+            "certificate_hash": "23e90c36df6d900ff7a39b4c53f35a413c3aa45d"
+          }
+        },
+        {
+          "client_id": "969949418855-qfjtrha4k18mvr4tiqqngfle8vnnu3pq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.parkway",
+            "certificate_hash": "2052320b35cd87e892f86c20ed88cccb6b45b78a"
+          }
+        },
+        {
+          "client_id": "969949418855-gjf9a5fuuuppuddvjac025g7n9h7k2vm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU2tnBErIsrMQmMykkFSInwLS-WZlFSAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969949418855-gjf9a5fuuuppuddvjac025g7n9h7k2vm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
