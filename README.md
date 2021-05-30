@@ -2,7 +2,7 @@
 
 ParkWay
 
-A metropolitan parking application aimed to support the evolution of Self-Driving Cars.
+A metropolitan parking application.
 
 # Integration
 
